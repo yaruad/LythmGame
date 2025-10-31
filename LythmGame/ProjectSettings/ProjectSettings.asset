@@ -719,11 +719,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: c1730dd3-52c5-4818-ab2b-285980a42dd5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: LythmGame
+  organizationId: skun0709
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
